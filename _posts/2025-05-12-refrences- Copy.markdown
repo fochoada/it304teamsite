@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Application of AI"
+title:  "Introduction"
 date:   2025-05-02 01:23:45 -0400
 categories: Ethics
 ---
 
 hello
-
