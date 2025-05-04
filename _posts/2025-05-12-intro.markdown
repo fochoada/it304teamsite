@@ -4,7 +4,7 @@ title:  "Introduction"
 date:   2025-05-02 01:23:45 -0400
 categories: Ethics
 ---
-
+[part 1]: # 
 ![image](/it304teamsite/assets/images/intro1.png) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Artificial Intelligence (AI) encompasses technologies that enable machines to perform tasks traditionally associated with human intelligence, such as recognizing speech, generating images, and making decisions. One of the most transformative advancements in this field is generative AI, which allows systems to produce original content—ranging from text and audio to images and video—by learning patterns from vast datasets. Technologies such as ChatGPT, DALL·E, and other large language and diffusion models are key examples of this shift.
 
@@ -16,7 +16,7 @@ categories: Ethics
 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;Throughout history, Artificial Intelligence(AI) has been defined in various ways, focusing on its features and technological advancements. Kurzweil (1990) mentioned that AI is the art of creating machines that perform functions that require intelligence when performed by people, whereas Nilsson (1998) noted that AI is concerned with intelligent behavior in artifacts. These different approaches were differentiated as one group believed AI is a system that acts like a human. In contrast, another group believed AI is a system that combines both mathematics and engineering(Russell, S., & Norvig, P., 2003). However, today, we can see that both perspectives have been integrated to discover new AI-based technical advancements called Generative AI. Generative AI is an AI system that learns patterns from large datasets and creates an original output based on the learning. The primary applications of generative AI are AI image generation technology, such as Dall-E, Midjourney, and AI voice-replication technology, such as Resemble.AI and VocaliD. These real-world applications depict how AI continued to evolve into a powerful tool – both a boon and a curse, in reshaping human creativity and intelligence. 
 
-#section1
+[part 2]: # 
 ![image](/it304teamsite/assets/images/intro2.png) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;AI image-generating models such as Dall-E and Midjourney create a realistic image using a text prompt. For example, if I instructed the tool by writing something like this, “An advanced architectural design of a modern house on top of a hill with an astonishing view,” then the realistic image with such keen details is provided. This advanced tool is beneficial when bringing highly creative and complex concepts to life, which could have taken days or weeks for an individual to make; however, the application also endures a few complexities and social challenges.
 
@@ -39,7 +39,7 @@ categories: Ethics
 <p align="center">Job displacements</p>
 &nbsp;&nbsp;&nbsp;&nbsp;Companies such as Respeecher and Sonantic create hyper-realistic voices that sound almost similar to a real human voice. With the use of deep-learning algorithm in learning voice patterns, pitch, timbre, and mimicking accents, tone, and emotions, these tools could create high-accuracy, which led several companies to choose AI tools, which was comparatively budget friendly and less time consuming, to support their business rather than voice actors, which led to their potential job displacement(Karunakaran, 2024).
 
-
+[part 3]: # 
 ![image](/it304teamsite/assets/images/intro3.png) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Generative Artificial Intelligence’s ability to create, recreate, and replicate images, viewable media, and speech synthesis (synthetic media) poses significant risks as well as social and political concerns. Due to generative Artificial Intelligence being able to create deepfakes of and recreate the voices of other people through speech synthesis, it can lead to a much larger wide spread of misinformation and disinformation in all sectors, especially for politics and governments; lead to the loss of human led jobs, such as acting, advertising, etc.; and lead to bigger accounts of identity theft and misrepresentation of people. Furthermore, the technology’s ability to replicate and create synthetic media based on off what it was “trained” on poses the potential and possibility of challenging current ethics related to copyright and plagiarism laws.
 
