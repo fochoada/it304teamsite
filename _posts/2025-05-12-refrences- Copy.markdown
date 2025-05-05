@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Refrences"
-date:   2025-05-03 01:23:45 -0400
+date:   2025-05-01 01:23:45 -0400
 categories: APA
 ---
 
@@ -28,7 +28,7 @@ Lyons, K. (2020, January 29). FTC says the Tech Behind Audio Deepfakes is Gettin
 Karunakaran, K. (2024, September 23). Will AI Replace Voice Actors? Here’s What You Need to Know. Medium. https://medium.com/@iitkarthik/will-ai-replace-voice-actors-heres-what-you-need-to-know-02586be2edf4
 
 <br />
-Image Source:
+Image Sources:
 
 https://trendsresearch.org/wp-content/uploads/2024/07/The-Rise-of-Generative-AI-copy.jpg 
 
