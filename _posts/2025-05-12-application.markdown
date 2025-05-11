@@ -4,9 +4,14 @@ title:  "Applications of AI"
 date:   2025-05-02 01:23:45 -0400
 categories: Ethics
 ---
+[Intro](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html 'Intro')
+[Applications](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html 'Applications')
+[Discussion](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html' Discussion')
+<br />
 
 [application]: # 
 ![image](/it304teamsite/assets/images/intro2.png) <br />
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Throughout history, Artificial Intelligence(AI) has been defined in various ways, focusing on its features and technological advancements. Kurzweil (1990) mentioned that AI is the art of creating machines that perform functions that require intelligence when performed by people, whereas Nilsson (1998) noted that AI is concerned with intelligent behavior in artifacts. These different approaches were differentiated as one group believed AI is a system that acts like a human. In contrast, another group believed AI is a system that combines both mathematics and engineering(Russell, S., & Norvig, P., 2003). However, today, we can see that both perspectives have been integrated to discover new AI-based technical advancements called Generative AI. Generative AI is an AI system that learns patterns from large datasets and creates an original output based on the learning. The primary applications of generative AI are AI image generation technology, such as Dall-E, Midjourney, and AI voice-replication technology, such as Resemble.AI and VocaliD. These real-world applications depict how AI continued to evolve into a powerful tool – both a boon and a curse, in reshaping human creativity and intelligence. 
 
 <p align="center">AI Models</p>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Refrences"
+title:  "References"
 date:   2025-05-01 01:23:45 -0400
 categories: APA
 ---
