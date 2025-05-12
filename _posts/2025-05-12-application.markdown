@@ -10,7 +10,7 @@ categories: Ethics
 <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html" style="font-size:24px;" title="Discussion">Discussion</a>
 <br />
 
-[application]: # 
+[applications]: # 
 ![image](/it304teamsite/assets/images/intro2.png) <br />
 
 <div style="text-align: center;">
