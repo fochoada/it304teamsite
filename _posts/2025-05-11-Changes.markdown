@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Requested Changes"
-date:   2025-05-011 01:23:45 -0400
-categories: Ethics
+date:   2025-05-11 01:23:45 -0400
+categories: Changes
 ---
 
 <a href="http://google.com" style="font-size:20px;" title="google">Google</a>

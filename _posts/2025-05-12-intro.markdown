@@ -4,9 +4,9 @@ title:  "Introduction"
 date:   2025-05-02 01:23:45 -0400
 categories: Ethics
 ---
-[Intro](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html 'Intro')
-[Applications](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html 'Applications')
-[Discussion](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html' Discussion')
+
+[Applications](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html 'Applications')<br />
+[Discussion](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html' Discussion')<br />
 <br />
 /** part 1*/ 
 ![image](/it304teamsite/assets/images/intro1.png) <br />

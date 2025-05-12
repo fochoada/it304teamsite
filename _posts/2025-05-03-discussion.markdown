@@ -6,7 +6,6 @@ categories: Ethics
 ---
 [Intro](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html 'Intro') <br />
 [Applications](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html 'Applications') <br />
-[Discussion](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html' Discussion') <br />
 <br />
 
 [discussion]: # 
