@@ -14,8 +14,6 @@ categories: Changes
 
 IT 304 Final Project Changelog/Improvements Summary<br />
 Group 5<br />
-Francis Ochoada, Prashansa Bhatta, Chirag Srinivasa, Taha Chowdhury<br />
-Professor Myeong Lee | GTA Sadiya Puspo<br />
 IT-304-DL4<br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Changes made according to Kosal, Iman, and Brandon. In addition to proposed changes from the team. We did not include video examples because finding one at this point would feel forced.
