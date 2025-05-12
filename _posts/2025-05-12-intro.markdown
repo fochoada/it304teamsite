@@ -8,7 +8,7 @@ categories: Ethics
 [Applications](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html 'Applications')<br />
 [Discussion](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html' Discussion')<br />
 <br />
-/** part 1*/ 
+
 ![image](/it304teamsite/assets/images/intro1.png) <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Artificial Intelligence (AI) encompasses technologies that enable machines to perform tasks traditionally associated with human intelligence, such as recognizing speech, generating images, and making decisions. One of the most transformative advancements in this field is generative AI, which allows systems to produce original content—ranging from text and audio to images and video—by learning patterns from vast datasets. Technologies such as ChatGPT, DALL·E, and other large language and diffusion models are key examples of this shift.
