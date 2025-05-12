@@ -5,10 +5,14 @@ date:   2025-05-11 01:23:45 -0400
 categories: Changes
 ---
 
-<a href="http://google.com" style="font-size:20px;" title="google">Google</a>
+<a href="http://google.com" style="font-size:24px;" title="google">Google</a> <br />
+<a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html" style="font-size:24px;" title="Intro"></a> <br />
+<a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html" style="font-size:24px;" title="Applications"></a> <br />
+<a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html" style="font-size:24px;" title="">Discussion</a> <br />
+
 [Intro](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html 'Intro')
 [Applications](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html 'Applications')
-[Discussion](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html' Discussion')
+[Discussion](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html 'Discussion')
 
 IT 304 Final Project Changelog/Improvements Summary
 Group 5
