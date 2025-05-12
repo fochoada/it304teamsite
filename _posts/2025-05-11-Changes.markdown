@@ -5,61 +5,38 @@ date:   2025-05-11 01:23:45 -0400
 categories: Changes
 ---
 
-<a href="http://google.com" style="font-size:24px;" title="google">Google</a>
-
 <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html" style="font-size:24px;" title="Intro">Intro</a>
 
 <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html" style="font-size:24px;" title="Applications">Applications</a>
 
 <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html" style="font-size:24px;" title="Discussion">Discussion</a>
+<br />
 
-[Intro](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html 'Intro')
-[Applications](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html 'Applications')
-[Discussion](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html 'Discussion')
+IT 304 Final Project Changelog/Improvements Summary<br />
+Group 5<br />
+Francis Ochoada, Prashansa Bhatta, Chirag Srinivasa, Taha Chowdhury<br />
+Professor Myeong Lee | GTA Sadiya Puspo<br />
+IT-304-DL4<br />
 
-IT 304 Final Project Changelog/Improvements Summary
-Group 5
-Francis Ochoada, Prashansa Bhatta, Chirag Srinivasa, Taha Chowdhury
-Professor Myeong Lee | GTA Sadiya Puspo
-IT-304-DL4
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Changes made according to Kosal, Iman, and Brandon. In addition to proposed changes from the team. We did not include video examples because finding one at this point would feel forced.
 
+* Add a navigation bar at the top of each page to access the other pages easier 
 
-Add a navigation bar at the top of each page to access the other pages easier 
+* Add navigation links at the bottom of each page in the style of “Previous: Home | Next: Applications of AI” (This is an example of for the Introduction page) 
 
-Add navigation links at the bottom of each page in the style of “Previous: Home | Next: Applications of AI” (This is an example of for the Introduction page) 
-(Don’t do this for the home/index page of the site)
+* Add in a header for the recommendations on the ethical discussion page: “Recommendations”
 
-Add in a header for the recommendations on the ethical discussion page: “Recommendations”
+* Add in a header for the ethical discussion: “Ethical Concerns”
 
-Add in a header for the ethical discussion: “Ethical Concerns”
+* Add in white space/padding below each image
 
-Add in white space/padding below each image
+* Make headers clearer by bolding them, and increasing the font size
 
-Make headers clearer by bolding them, and increasing the font size
+* Add more padding in between paragraphs on the “Applications of AI” page
 
-Add more padding in between paragraphs on the “Applications of AI” page
+* Change the recommendations section to use bullet points:
 
-Change the recommendations section to use bullet points:
-
-Regardless of its ethical concerns, Generative Artificial Intelligence is here to stay. Policy makers should strive to alleviate some of these ethical concerns in various ways. 
-
-
-One recommendation to alleviate such concerns is making synthetic media transparent and explicit about how it was made or including some indication that it was made with the use of generative artificial intelligence. 
-
-
-A second recommendation would be to have synthetic media require consent from the people whose likeness or content is being used in the media itself or to train the AI. 
-
-
-A third recommendation would be to increase public knowledge and recognition of synthetic media to combat the spread of disinformation in the general public. 
-
-
-A fourth recommendation would be to create and strengthen worker rights and protections that help make it so that this technology helps assist work and create new jobs rather wholly replace the workers. 
-
-
-A fifth and final recommendation would be to create more modern copyright laws that requires the consent of the original creators or people whose likeness is being used to create and train the AI, provides them rights over how the AI can be used, and protects their work or likeness from being used in a harmful or devastating way.
-
-
-Fix the typo of “Refrences” to “References”
+* Fix the typo of “Refrences” to “References”
 
 
 

@@ -8,7 +8,6 @@ categories: Ethics
 <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html" style="font-size:24px;" title="Intro">Intro</a>
 
 <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html" style="font-size:24px;" title="Applications">Applications</a>
-
 <br />
 
 [discussion]: # 
@@ -20,12 +19,12 @@ categories: Ethics
 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The use the technology to replace current jobs is another example that brings up the ethics of this technology in question.  Synthetic media has the ability to replace jobs in areas such as acting, filmmaking, advertising, and more. If companies start to use artificial intelligence as recommendation to create media, it is probable that they would replace the people hired to create media which leads to a loss in jobs and creativity. This replacement would undermine the amount of respect given to people in their positions by their employer and potentially cause widespread displacement of workers in those areas. However, if companies see it as a recommendation to assist and not replace the people creating media, the use of this technology could lead to the creation of new jobs, an increase and boost to productivity, and avoid worker displacement.
 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Regardless of its ethical concerns, Generative Artificial Intelligence is here to stay. Policy makers should strive to alleviate some of these ethical concerns in various ways. 
-
 <div style="text-align: center;">
   <span style="font-size:24px; font-weight:bold;">Recommendations</span>
 </div>
-One recommendation to alleviate such concerns is making synthetic media transparent and explicit about how it was made or including some indication that it was made with the use of generative artificial intelligence.
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Regardless of its ethical concerns, Generative Artificial Intelligence is here to stay. Policy makers should strive to alleviate some of these ethical concerns in various ways. 
+
+* One recommendation to alleviate such concerns is making synthetic media transparent and explicit about how it was made or including some indication that it was made with the use of generative artificial intelligence.
 * A second recommendation would be to have synthetic media require consent from the people whose likeness or content is being used in the media itself or to train the AI. 
 * A third recommendation would be to increase public knowledge and recognition of synthetic media to combat the spread of disinformation in the general public. 
 * A fourth recommendation would be to create and strengthen worker rights and protections that help make it so that this technology helps assist work and create new jobs rather wholly replace the workers. 
