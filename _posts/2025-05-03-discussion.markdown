@@ -4,8 +4,12 @@ title:  "Discussion of AI & its Applications"
 date:   2025-05-02 01:23:45 -0400
 categories: Ethics
 ---
-[Intro](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html 'Intro') <br />
-[Applications](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html 'Applications') <br />
+<a href="http://google.com" style="font-size:24px;" title="google">Google</a>
+
+<a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html" style="font-size:24px;" title="Intro">Intro</a>
+
+<a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html" style="font-size:24px;" title="Applications">Applications</a>
+
 <br />
 
 [discussion]: # 

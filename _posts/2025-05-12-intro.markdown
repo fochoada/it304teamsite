@@ -5,8 +5,9 @@ date:   2025-05-02 01:23:45 -0400
 categories: Ethics
 ---
 
-[Applications](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html 'Applications')<br />
-[Discussion](https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html' Discussion')<br />
+<a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html" style="font-size:24px;" title="Applications">Applications</a>
+
+<a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html" style="font-size:24px;" title="Discussion">Discussion</a>
 <br />
 
 ![image](/it304teamsite/assets/images/intro1.png) <br />
