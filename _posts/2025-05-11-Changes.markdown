@@ -18,9 +18,7 @@ IT-304-DL4<br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Changes made according to Kosal, Iman, and Brandon. In addition to proposed changes from the team. We did not include video examples because finding one at this point would feel forced.
 
-* Add a navigation bar at the top of each page to access the other pages easier 
-
-* Add navigation links at the bottom of each page in the style of “Previous: Home | Next: Applications of AI” (This is an example of for the Introduction page) 
+* Add navigation links
 
 * Add in a header for the recommendations on the ethical discussion page: “Recommendations”
 
