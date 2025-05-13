@@ -53,13 +53,3 @@ Trends Research. (2024, July). The Rise of Generative AI [Image]. Trends Researc
 
 Woeller, J. (2024, July 01). The Hidden Dangers of AI-Generated Art: What Sellers and Artists Need to Know. Retrieved from https://goimagine.com/blog/ai-generated-art-what-artists-need-to-know/
 
-<br />
-Image Sources:
-
-https://trendsresearch.org/wp-content/uploads/2024/07/The-Rise-of-Generative-AI-copy.jpg 
-
-https://miro.medium.com/v2/resize:fit:1011/1*CiC4C7bodsoTkLq_ap2SHg.png
-
-Screen magnification software. Cosumnes River College. (n.d.). https://crc.losrios.edu/student-resources/disability-support-programs-and-services-%28dsps%29/assistive-technology-lab/screen-magnification-software  
-
-hello
