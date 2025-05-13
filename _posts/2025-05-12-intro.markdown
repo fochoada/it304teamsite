@@ -11,7 +11,7 @@ categories: Ethics
 <br />
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html">Introduction</a>
+  <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html" style="font-size:24px;">Introduction</a>
   <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html" style="margin: 0 auto; font-size:24px">Applications</a>
   <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html">Discussion</a>
 </div>
