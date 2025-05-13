@@ -25,6 +25,7 @@ display: block;
   font-size:24px;
 }
 </style>
+
 Aoki Studio. (2023). 50 Arguments Against the Use of AI in Creative Fields. Retrieved from https://aokistudio.com/50-arguments-against-the-use-of-ai-in-creative-fields.html
 
 Corrall, M. (2024). The Harm & Hypocrisy of AI art. Retrieved from https://www.corralldesign.com/writing/ai-harm-hypocrisy
