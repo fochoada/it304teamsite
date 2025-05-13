@@ -4,7 +4,7 @@ title:  "Introduction"
 date:   2025-05-02 01:23:45 -0400
 categories: Ethics
 ---
-<nav2>
+<nav-a>
 <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html" title="Intro">Intro</a>
 |
 <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html" title="Applications">Applications</a>
@@ -12,10 +12,10 @@ categories: Ethics
 <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html" title="Discussion">Discussion</a>
 |
 <a href="https://fochoada.github.io/it304teamsite/apa/2025/05/01/refrences-Copy.html" title="References">References</a>
-</nav2> 
+</nav-a> 
 
 <style>
-nav2 {
+nav-a {
 display: block;
   background-color: white;
   border: 2px solid black;
