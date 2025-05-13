@@ -25,10 +25,6 @@ display: block;
   font-size:24px;
 }
 </style>
-<a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html" style="font-size:24px;" title="Intro">Intro</a>
-
-<a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html" style="font-size:24px;" title="Applications">Applications</a>
-<br />
 
 [discussion]: # 
 ![image](/it304teamsite/assets/images/intro3.png) <br />
