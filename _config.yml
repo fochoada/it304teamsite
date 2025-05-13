@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Final Project Presentation
+title: IT 304 Final Project
 email: fochoada@gmu.edu, tchowd5@gmu.edu, pbhatta5@gmu.edu, csriniv@gmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   IT 304 Group 5
