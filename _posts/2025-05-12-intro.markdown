@@ -26,6 +26,7 @@ display: block;
 }
 </style>
 <br />
+
 [Intro]: # 
 ![image](/it304teamsite/assets/images/intro1.png) <br />
 
