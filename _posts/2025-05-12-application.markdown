@@ -75,7 +75,7 @@ display: block;
 <div style="text-align: center;">
   <span style="font-size:24px; font-weight:bold;">Social Engineering and Scams</span>
 </div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recently, some news has been spreading regarding phishing and social engineering attempts via voice cloning software. Attackers or hackers usually use such tools to talk to their target in a voice of someone they trust, create a scenario where the other person is in desperate need - could be financial, or could be sensitive informations like their bank number, credit card information, company’s information, and ultimately trick them into their scam. In a few cases, voice cloning has been used to bully online and create fake evidence in criminal cases (Martin,2022).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recently, some news has been spreading regarding phishing and social engineering attempts via voice cloning software. Attackers or hackers usually use such tools to talk to their target in a voice of someone they trust, create a scenario where the other person is in desperate need - could be financial, or could be sensitive informations like their bank number, credit card information, company’s information, and ultimately trick them into their scam. In a few cases, voice cloning has been used to bully online and create fake evidence in criminal cases (Martin, 2022).
 
 
 <div style="text-align: center;">
