@@ -4,7 +4,25 @@ title:  "Applications of AI"
 date:   2025-05-02 01:23:45 -0400
 categories: Ethics
 ---
+<nav>
+<a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html" title="Intro">Intro</a>
+|
+<a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html" title="Applications">Applications</a>
+|
+<a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html" title="Discussion">Discussion</a>
+|
+<a href="https://fochoada.github.io/it304teamsite/apa/2025/05/01/refrences-Copy.html" title="References">References</a>
+</nav> 
 
+nav {
+display: block;
+  background-color: white;
+  border: 2px solid black;
+  width:100%;
+  text-align: center;
+  margin: auto;
+  font-size:24px;
+}
 <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html" style="font-size:24px;" title="Intro">Intro</a>
 
 <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html" style="font-size:24px;" title="Discussion">Discussion</a>
