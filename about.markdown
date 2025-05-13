@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 <p align="center">Project Info</p>
-This webpage is about an IT 304 project presentation covering the topic of artificial intelligence. </br>
-More specifically, AI image generation and voice-replication.
+This webpage is about an IT 304 project presentation covering the topic of artificial intelligence.
+<br />More specifically, AI image generation and voice-replication.
 
 <br />
 <br />
