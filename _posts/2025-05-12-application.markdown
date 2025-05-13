@@ -14,6 +14,7 @@ categories: Ethics
 <a href="https://fochoada.github.io/it304teamsite/apa/2025/05/01/refrences-Copy.html" title="References">References</a>
 </nav> 
 
+<style>
 nav {
 display: block;
   background-color: white;
@@ -23,6 +24,7 @@ display: block;
   margin: auto;
   font-size:24px;
 }
+</style>
 <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html" style="font-size:24px;" title="Intro">Intro</a>
 
 <a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html" style="font-size:24px;" title="Discussion">Discussion</a>
@@ -62,7 +64,7 @@ display: block;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Similarly, an AI-voice replication technology, also known as voice cloning, is an AI simulation capable of generating synthetic speech that resembles a targeted human voice. Technological advancements have made it difficult to differentiate between a real human voice and a fake automated voice. Such AI text-to-voice software has helped educational purposes by cloning the voices of historical figures for interactive teaching and realistic storytelling. IT has also helped narrate audiobooks and assist persons with speech disabilities; however, the applications have been noticed to be enduring a few complexities and social challenges(Martin,2022).
 
 <div style="text-align: center;">
-  <span style="font-size:20px; font-weight:bold;">Audio Deepfakes</span>
+  <span style="font-size:24px; font-weight:bold;">Audio Deepfakes</span>
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Due to rapid progress in voice cloning technology, audio deepfake cases are rising as criminals and hackers can communicate with their targets easily and anonymously and obtain their sensitive information(Lyons, 2020). Audio deepfakes are also used in pornography content to exploit their target’s image or defame them with poor intent. 
 
