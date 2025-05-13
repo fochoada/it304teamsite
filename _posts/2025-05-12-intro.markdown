@@ -25,7 +25,7 @@ display: block;
   font-size:24px;
 }
 </style>
-
+<br />
 [Intro]: # 
 ![image](/it304teamsite/assets/images/intro1.png) <br />
 
