@@ -4,7 +4,27 @@ title:  "References"
 date:   2025-05-01 01:23:45 -0400
 categories: APA
 ---
+<nav-a>
+<a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/intro.html" title="Intro">Intro</a>
+|
+<a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/application.html" title="Applications">Applications</a>
+|
+<a href="https://fochoada.github.io/it304teamsite/ethics/2025/05/02/discussion.html" title="Discussion">Discussion</a>
+|
+<a href="https://fochoada.github.io/it304teamsite/apa/2025/05/01/refrences-Copy.html" title="References">References</a>
+</nav-a> 
 
+<style>
+nav-a {
+display: block;
+  background-color: white;
+  border: 2px solid black;
+  width:100%;
+  text-align: center;
+  margin: auto;
+  font-size:24px;
+}
+</style>
 Aoki Studio. (2023). 50 Arguments Against the Use of AI in Creative Fields. Retrieved from https://aokistudio.com/50-arguments-against-the-use-of-ai-in-creative-fields.html
 
 Corrall, M. (2024). The Harm & Hypocrisy of AI art. Retrieved from https://www.corralldesign.com/writing/ai-harm-hypocrisy
